@@ -21,7 +21,7 @@ NORMAL="\033[0;39m"
 function checkDoor {
   # url to json
   url="https://fbihome.de/tuerstatus.php"
-v
+
   # get json file via curl
   json_data="$(curl -s "$url")"
 
