@@ -1,5 +1,6 @@
 # fsdoor.sh
-simple shell script to determine the door state of the Fachschaft Informatik (h_da)
+simple shell script to determine the door state of the Fachschaft 
+Informatik (h_da)
 
 ## Usage
 
