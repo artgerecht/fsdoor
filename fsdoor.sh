@@ -32,7 +32,7 @@ function checkDoor {
   if [ $dooropen == "true" ]; then
     echo -e "Fachschaft is "$GREEN"open" $NORMAL
   elif [ $dooropen == "false" ]; then
-    echo -e "Faschaft is "$RED"closed"
+    echo -e "Fachschaft is "$RED"closed"
   fi
 }
 
